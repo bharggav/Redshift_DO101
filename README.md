@@ -1,1 +1,3 @@
-# Redshift_DO101
+# DO101-apps
+
+Apps for the DO101 course.
